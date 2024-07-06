@@ -15,6 +15,15 @@
 | 1 | Resistor 3K | emprestado |
 
 ## Circuito no Falstad
-![image](https://github.com/Larissaa-p/fonte_ajustavel/assets/163125769/355a90ec-51a3-49bc-b733-3188620bc85e)
-[Link do circuito](https://tinyurl.com/2k8ars5m)
+![image](https://github.com/Larissaa-p/fonte_ajustavel/assets/163125769/913982db-02f7-48cc-82ff-747eefdfcc85)
 
+[Link do circuito](https://tinyurl.com/25rjbfet)
+
+Obs: o resistor do potenciômetro, que no falstad é de 4.7k, foi trocado por um de 3k na prtobard devido à resistência da própria placa.
+
+Obs2: o resistor de 80 ohms, que serve para diminuir a energia que chega ao transistor, não estava disponível.
+
+### Foto do circuito montado:
+![image](https://github.com/Larissaa-p/fonte_ajustavel/assets/163125769/9dd64661-a2d3-41d4-8e28-780bdcc3a6f2)
+
+[Vídeo da fonte funcionando](https://youtu.be/qbcQEn5NJ7w)
